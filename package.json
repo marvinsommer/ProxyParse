@@ -1,0 +1,19 @@
+{
+  "name": "proxyparse",
+  "version": "1.0.0",
+  "description": "Detects format of HTTPS-Proxy string and provides object to interface with proxy properties",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start" : "node src/index.js",
+    "test":  "node src/tests/test.js",
+    "example":  "node src/tests/example.js"
+
+  },
+  "keywords": [],
+  "author": "Marvin Sommer",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
