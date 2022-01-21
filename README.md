@@ -1,6 +1,6 @@
 # ProxyParse
 
----
+
 
 Parses Proxy-Strings of the following formats
 
@@ -14,13 +14,13 @@ and provides an Object to access proxy properties.
 
 ## Dependencies
 
----
+
 
 The only dependency is axios :)
 
 ## Usage
 
----
+
 Input:
 
     var proxyObject = proxyFromString("ip:port@user:pass");
@@ -53,7 +53,7 @@ Result:
 
 ## Additional functionality
 
----
+
 
 ### getGeolocation()
 
