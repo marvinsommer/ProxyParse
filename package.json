@@ -1,9 +1,10 @@
 {
-  "name": "proxyparse",
+  "name": "@marvinsommer/proxyparse",
   "version": "1.0.0",
   "description": "Detects format of HTTPS-Proxy string and provides object to interface with proxy properties",
   "main": "src/index.js",
   "type": "module",
+  "repository": "git://github.com/marvinsommer/ProxyParse.git",
   "scripts": {
     "start" : "node src/index.js",
     "test":  "node src/tests/test.js",
