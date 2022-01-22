@@ -1,6 +1,6 @@
 {
   "name": "proxyparse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detects format of HTTPS-Proxy string and provides object to interface with proxy properties",
   "main": "src/index.js",
   "type": "module",
